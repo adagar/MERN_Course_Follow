@@ -23,7 +23,7 @@ class Login extends Component {
     };
     console.log(user);
   };
-
+  //A comment
   render() {
     return (
       <div className="login">
